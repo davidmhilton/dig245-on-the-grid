@@ -38,3 +38,10 @@ h1 {
 .order-2{
     order: 2!important;
 }
+footer{
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 15px; 
+    padding-top: 20px;
+    color: black;
+}
